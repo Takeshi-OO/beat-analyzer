@@ -101,12 +101,30 @@ def detect_beats_and_strong_attacks(audio_file, fps=100, beat_per_bar=4, rel_thr
     
     # ビート上と重なるオンセットを除外
     strong_attacks = []
+    strong_attacks_with_strength = []  # (時間, 強度) のリスト
     beat_times_array = np.array(beat_times)
     
     for onset_time in onset_times:
         # beat_times に近いタイミングがあるか判定
         if np.all(np.abs(beat_times_array - onset_time) > tolerance):
-            strong_attacks.append(onset_time)
+            # オンセットの強度を取得（時間をフレームインデックスに変換）
+            frame_idx = int(onset_time * fps)
+            if 0 <= frame_idx < len(onset_activation):
+                onset_strength = onset_activation[frame_idx]
+                strong_attacks_with_strength.append((onset_time, onset_strength))
+    
+    # 強度でソート（降順）
+    strong_attacks_with_strength.sort(key=lambda x: x[1], reverse=True)
+    
+    # ダウンビートの数より多い場合は、強度の強い順に絞り込む
+    if len(strong_attacks_with_strength) > len(downbeat_times) and len(downbeat_times) > 0:
+        strong_attacks_with_strength = strong_attacks_with_strength[:len(downbeat_times)]
+    
+    # 時間だけのリストに変換
+    strong_attacks = [time for time, _ in strong_attacks_with_strength]
+    
+    # 時間順にソート
+    strong_attacks.sort()
     
     return downbeat_times, beat_times, strong_attacks
 
