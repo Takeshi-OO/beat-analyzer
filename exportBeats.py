@@ -4,64 +4,8 @@ import numpy as np
 from madmom.audio import Signal
 from madmom.features.downbeats import RNNDownBeatProcessor, DBNDownBeatTrackingProcessor
 
-def detect_beats_and_downbeats(audio_file, fps=100, beat_per_bar=4):
-    """
-    指定した音声ファイルに対して、ビート・ダウンビートの検出を行い、
-    それぞれのタイミングを返す。
-    
-    Parameters
-    ----------
-    audio_file : str
-        入力音声ファイルのパス (wavなど)
-    fps : int, optional
-        分析に用いるフレームレート(デフォルト=100)
-    beat_per_bar : int or list, optional
-        小節あたりの拍数。4拍子なら4(デフォルト=4)
-
-    Returns
-    -------
-    beats : ndarray
-        ビートのタイミング（秒）
-    downbeats : ndarray
-        ダウンビートのタイミング（秒）
-    """
-    # 活性化関数を計算
-    act = RNNDownBeatProcessor()(audio_file)
-    
-    # ビート追跡
-    processor = DBNDownBeatTrackingProcessor(beats_per_bar=beat_per_bar, fps=fps)
-    beats_with_positions = processor(act)
-    
-    # ビートとダウンビートを分離
-    beats = beats_with_positions[:, 0]  # 時間情報
-    positions = beats_with_positions[:, 1]  # 拍の位置情報（1が最初の拍）
-    
-    # ダウンビートのみを抽出（位置が1.0のもの）
-    downbeats = beats[positions == 1.0]
-    
-    return beats, downbeats
-
 def export_beats_to_json(audio_file, output_file=None, fps=100, beat_per_bar=4):
-    """
-    指定した音声ファイルに対して、ビート・ダウンビートの検出を行い、
-    JSON形式で出力する。
-    
-    Parameters
-    ----------
-    audio_file : str
-        入力音声ファイルのパス (wavなど)
-    output_file : str, optional
-        出力JSONファイルのパス (指定がない場合は標準出力)
-    fps : int, optional
-        分析に用いるフレームレート(デフォルト=100)
-    beat_per_bar : int or list, optional
-        小節あたりの拍数。4拍子なら4(デフォルト=4)
-    
-    Returns
-    -------
-    dict
-        ビート情報を含む辞書
-    """
+
     # 音声ファイルを読み込み
     signal = Signal(audio_file)
     sample_rate = signal.sample_rate
