@@ -4,29 +4,6 @@ from madmom.audio import Signal
 from madmom.features.downbeats import RNNDownBeatProcessor, DBNDownBeatTrackingProcessor
 from madmom.features.onsets import RNNOnsetProcessor, OnsetPeakPickingProcessor
 
-def detect_downbeats(audio_file):
-    """
-    指定したオーディオファイルからダウンビートを検出し、結果を返す。
-    
-    Returns:
-        downbeats: [(time_sec, beat_type), ...] のリスト
-                   beat_type=1: ダウンビート, 2: 通常のビート
-    """
-    # RNNを用いてアクティベーションを推定
-    # fps=100 はフレームレート。処理速度と精度のバランスによって変更可能
-    rnn_processor = RNNDownBeatProcessor(fps=100)
-    activation = rnn_processor(audio_file)
-    
-    # DBNを用いて最終的にビート / ダウンビートを推定
-    # beats_per_bar=[4] は1小節あたりのビート数(4拍子)を仮定した設定
-    # 他の拍子の場合は [3] や [4, 3] (複数候補) などを試す
-    dbn_processor = DBNDownBeatTrackingProcessor(beats_per_bar=[4], fps=100)
-    # 出力形式: [(time_sec, beat_type), ...]
-    # beat_type=1: 小節頭(ダウンビート), 2: それ以外のビート
-    downbeats = dbn_processor(activation)
-    
-    return downbeats
-
 def detect_beats_and_strong_attacks(audio_file, fps=100, beat_per_bar=4, rel_threshold_factor=0.3, tolerance=0.02):
     """
     指定した音声ファイルに対して、
@@ -134,30 +111,32 @@ if __name__ == "__main__":
     else:
         audio_file = "audio/bgm1.wav"  # 解析したいオーディオファイルへのパス
     
-    # 従来の方法でダウンビートとビートを検出
-    results = detect_downbeats(audio_file)
-    
-    print("=== 従来の方法（ビートとダウンビートのみ）===")
-    for (beat_time, beat_type) in results:
-        beat_label = "ダウンビート" if beat_type == 1 else "ビート"
-        print(f"時間: {beat_time:.2f} 秒, タイプ: {beat_label}")
-    
-    # 新しい方法でビート、ダウンビート、強いアタックを検出
-    print("\n=== 新しい方法（ビート外の強いアタックも検出）===")
+    # ビート、ダウンビート、強いアタックを検出
     downbeats, beats, strong_attacks = detect_beats_and_strong_attacks(audio_file)
     
     print(f"ダウンビート数: {len(downbeats)}")
     print(f"ビート数（ダウンビート含む）: {len(beats)}")
     print(f"ビート外の強いアタック数: {len(strong_attacks)}")
     
-    print("\nダウンビートのタイミング:")
+    # 時系列順に全てのイベントを表示するための準備
+    all_events = []
+    
+    # ダウンビートを追加
     for time in downbeats:
-        print(f"  {time:.2f} 秒")
+        all_events.append((time, "ダウンビート"))
     
-    print("\nビートのタイミング:")
+    # 通常のビート（ダウンビート以外）を追加
     for time in beats:
-        print(f"  {time:.2f} 秒")
+        if time not in downbeats:  # ダウンビートでないビートのみ追加
+            all_events.append((time, "ビート"))
     
-    print("\nビート外の強いアタックのタイミング:")
+    # 強いアタックを追加
     for time in strong_attacks:
-        print(f"  {time:.2f} 秒")
+        all_events.append((time, "強いアタック"))
+    
+    # 時間順にソート
+    all_events.sort(key=lambda x: x[0])
+    
+    print("\n=== 時系列順のイベント ===")
+    for time, event_type in all_events:
+        print(f"時間: {time:.2f} 秒, タイプ: {event_type}")
