@@ -61,7 +61,7 @@ def export_beats_to_json(audio_file, output_file=None, fps=100, beat_per_bar=4):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("使用方法: python downbeats.py <音声ファイル> [出力JSONファイル]")
+        print("使用方法: python exportBeats.py <音声ファイル> [出力JSONファイル]")
         sys.exit(1)
     
     audio_file = sys.argv[1]

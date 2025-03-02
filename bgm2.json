@@ -1,0 +1,2270 @@
+{
+  "sampleRate": 44100,
+  "beats": [
+    {
+      "time": 1.65,
+      "measure": 0,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 2.08,
+      "measure": 0,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 2.51,
+      "measure": 1,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 2.96,
+      "measure": 1,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 3.39,
+      "measure": 1,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 3.81,
+      "measure": 1,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 4.23,
+      "measure": 2,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 4.65,
+      "measure": 2,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 5.07,
+      "measure": 2,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 5.5,
+      "measure": 2,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 5.92,
+      "measure": 3,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 6.34,
+      "measure": 3,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 6.77,
+      "measure": 3,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 7.19,
+      "measure": 3,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 7.61,
+      "measure": 4,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 8.04,
+      "measure": 4,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 8.45,
+      "measure": 4,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 8.88,
+      "measure": 4,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 9.3,
+      "measure": 5,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 9.72,
+      "measure": 5,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 10.15,
+      "measure": 5,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 10.57,
+      "measure": 5,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 10.99,
+      "measure": 6,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 11.41,
+      "measure": 6,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 11.84,
+      "measure": 6,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 12.26,
+      "measure": 6,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 12.68,
+      "measure": 7,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 13.11,
+      "measure": 7,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 13.53,
+      "measure": 7,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 13.95,
+      "measure": 7,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 14.37,
+      "measure": 8,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 14.79,
+      "measure": 8,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 15.22,
+      "measure": 8,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 15.64,
+      "measure": 8,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 16.06,
+      "measure": 9,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 16.49,
+      "measure": 9,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 16.91,
+      "measure": 9,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 17.33,
+      "measure": 9,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 17.75,
+      "measure": 10,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 18.18,
+      "measure": 10,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 18.6,
+      "measure": 10,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 19.03,
+      "measure": 10,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 19.44,
+      "measure": 11,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 19.87,
+      "measure": 11,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 20.29,
+      "measure": 11,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 20.71,
+      "measure": 11,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 21.13,
+      "measure": 12,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 21.55,
+      "measure": 12,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 21.98,
+      "measure": 12,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 22.41,
+      "measure": 12,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 22.82,
+      "measure": 13,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 23.25,
+      "measure": 13,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 23.67,
+      "measure": 13,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 24.1,
+      "measure": 13,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 24.51,
+      "measure": 14,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 24.94,
+      "measure": 14,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 25.36,
+      "measure": 14,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 25.79,
+      "measure": 14,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 26.21,
+      "measure": 15,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 26.63,
+      "measure": 15,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 27.05,
+      "measure": 15,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 27.48,
+      "measure": 15,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 27.9,
+      "measure": 16,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 28.32,
+      "measure": 16,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 28.74,
+      "measure": 16,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 29.17,
+      "measure": 16,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 29.59,
+      "measure": 17,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 30.01,
+      "measure": 17,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 30.43,
+      "measure": 17,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 30.86,
+      "measure": 17,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 31.28,
+      "measure": 18,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 31.7,
+      "measure": 18,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 32.12,
+      "measure": 18,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 32.54,
+      "measure": 18,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 32.97,
+      "measure": 19,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 33.39,
+      "measure": 19,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 33.81,
+      "measure": 19,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 34.23,
+      "measure": 19,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 34.65,
+      "measure": 20,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 35.08,
+      "measure": 20,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 35.5,
+      "measure": 20,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 35.92,
+      "measure": 20,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 36.35,
+      "measure": 21,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 36.77,
+      "measure": 21,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 37.19,
+      "measure": 21,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 37.62,
+      "measure": 21,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 38.04,
+      "measure": 22,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 38.46,
+      "measure": 22,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 38.88,
+      "measure": 22,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 39.3,
+      "measure": 22,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 39.73,
+      "measure": 23,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 40.15,
+      "measure": 23,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 40.57,
+      "measure": 23,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 41.0,
+      "measure": 23,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 41.42,
+      "measure": 24,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 41.84,
+      "measure": 24,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 42.26,
+      "measure": 24,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 42.68,
+      "measure": 24,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 43.1,
+      "measure": 25,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 43.53,
+      "measure": 25,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 43.95,
+      "measure": 25,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 44.37,
+      "measure": 25,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 44.8,
+      "measure": 26,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 45.22,
+      "measure": 26,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 45.64,
+      "measure": 26,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 46.06,
+      "measure": 26,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 46.49,
+      "measure": 27,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 46.91,
+      "measure": 27,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 47.33,
+      "measure": 27,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 47.76,
+      "measure": 27,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 48.18,
+      "measure": 28,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 48.6,
+      "measure": 28,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 49.02,
+      "measure": 28,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 49.45,
+      "measure": 28,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 49.87,
+      "measure": 29,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 50.29,
+      "measure": 29,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 50.71,
+      "measure": 29,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 51.14,
+      "measure": 29,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 51.55,
+      "measure": 30,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 51.98,
+      "measure": 30,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 52.41,
+      "measure": 30,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 52.83,
+      "measure": 30,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 53.25,
+      "measure": 31,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 53.67,
+      "measure": 31,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 54.09,
+      "measure": 31,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 54.52,
+      "measure": 31,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 54.94,
+      "measure": 32,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 55.36,
+      "measure": 32,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 55.78,
+      "measure": 32,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 56.21,
+      "measure": 32,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 56.64,
+      "measure": 33,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 57.06,
+      "measure": 33,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 57.48,
+      "measure": 33,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 57.9,
+      "measure": 33,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 58.33,
+      "measure": 34,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 58.75,
+      "measure": 34,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 59.17,
+      "measure": 34,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 59.6,
+      "measure": 34,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 60.02,
+      "measure": 35,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 60.44,
+      "measure": 35,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 60.86,
+      "measure": 35,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 61.28,
+      "measure": 35,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 61.71,
+      "measure": 36,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 62.13,
+      "measure": 36,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 62.55,
+      "measure": 36,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 62.98,
+      "measure": 36,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 63.4,
+      "measure": 37,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 63.82,
+      "measure": 37,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 64.24,
+      "measure": 37,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 64.67,
+      "measure": 37,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 65.09,
+      "measure": 38,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 65.51,
+      "measure": 38,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 65.93,
+      "measure": 38,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 66.36,
+      "measure": 38,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 66.77,
+      "measure": 39,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 67.2,
+      "measure": 39,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 67.62,
+      "measure": 39,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 68.05,
+      "measure": 39,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 68.45,
+      "measure": 40,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 68.89,
+      "measure": 40,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 69.31,
+      "measure": 40,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 69.74,
+      "measure": 40,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 70.15,
+      "measure": 41,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 70.56,
+      "measure": 41,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 70.98,
+      "measure": 41,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 71.41,
+      "measure": 41,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 71.84,
+      "measure": 42,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 72.27,
+      "measure": 42,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 72.68,
+      "measure": 42,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 73.1,
+      "measure": 42,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 73.52,
+      "measure": 43,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 73.95,
+      "measure": 43,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 74.37,
+      "measure": 43,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 74.79,
+      "measure": 43,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 75.22,
+      "measure": 44,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 75.64,
+      "measure": 44,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 76.06,
+      "measure": 44,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 76.49,
+      "measure": 44,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 76.9,
+      "measure": 45,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 77.33,
+      "measure": 45,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 77.76,
+      "measure": 45,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 78.17,
+      "measure": 45,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 78.6,
+      "measure": 46,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 79.03,
+      "measure": 46,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 79.44,
+      "measure": 46,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 79.87,
+      "measure": 46,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 80.29,
+      "measure": 47,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 80.71,
+      "measure": 47,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 81.13,
+      "measure": 47,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 81.55,
+      "measure": 47,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 81.95,
+      "measure": 48,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 82.37,
+      "measure": 48,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 82.79,
+      "measure": 48,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 83.22,
+      "measure": 48,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 83.67,
+      "measure": 49,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 84.09,
+      "measure": 49,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 84.52,
+      "measure": 49,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 84.94,
+      "measure": 49,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 85.36,
+      "measure": 50,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 85.79,
+      "measure": 50,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 86.21,
+      "measure": 50,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 86.63,
+      "measure": 50,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 87.05,
+      "measure": 51,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 87.48,
+      "measure": 51,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 87.89,
+      "measure": 51,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 88.32,
+      "measure": 51,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 88.74,
+      "measure": 52,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 89.16,
+      "measure": 52,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 89.59,
+      "measure": 52,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 90.01,
+      "measure": 52,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 90.43,
+      "measure": 53,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 90.85,
+      "measure": 53,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 91.28,
+      "measure": 53,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 91.7,
+      "measure": 53,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 92.12,
+      "measure": 54,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 92.54,
+      "measure": 54,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 92.97,
+      "measure": 54,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 93.39,
+      "measure": 54,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 93.81,
+      "measure": 55,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 94.24,
+      "measure": 55,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 94.66,
+      "measure": 55,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 95.08,
+      "measure": 55,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 95.5,
+      "measure": 56,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 95.93,
+      "measure": 56,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 96.35,
+      "measure": 56,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 96.77,
+      "measure": 56,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 97.19,
+      "measure": 57,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 97.62,
+      "measure": 57,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 98.04,
+      "measure": 57,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 98.46,
+      "measure": 57,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 98.88,
+      "measure": 58,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 99.31,
+      "measure": 58,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 99.73,
+      "measure": 58,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 100.15,
+      "measure": 58,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 100.57,
+      "measure": 59,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 101.0,
+      "measure": 59,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 101.42,
+      "measure": 59,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 101.84,
+      "measure": 59,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 102.27,
+      "measure": 60,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 102.69,
+      "measure": 60,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 103.11,
+      "measure": 60,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 103.53,
+      "measure": 60,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 103.95,
+      "measure": 61,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 104.38,
+      "measure": 61,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 104.8,
+      "measure": 61,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 105.22,
+      "measure": 61,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 105.65,
+      "measure": 62,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 106.07,
+      "measure": 62,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 106.49,
+      "measure": 62,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 106.91,
+      "measure": 62,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 107.34,
+      "measure": 63,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 107.76,
+      "measure": 63,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 108.18,
+      "measure": 63,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 108.61,
+      "measure": 63,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 109.03,
+      "measure": 64,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 109.45,
+      "measure": 64,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 109.87,
+      "measure": 64,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 110.29,
+      "measure": 64,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 110.73,
+      "measure": 65,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 111.15,
+      "measure": 65,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 111.57,
+      "measure": 65,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 111.99,
+      "measure": 65,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 112.41,
+      "measure": 66,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 112.84,
+      "measure": 66,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 113.25,
+      "measure": 66,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 113.68,
+      "measure": 66,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 114.1,
+      "measure": 67,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 114.53,
+      "measure": 67,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 114.94,
+      "measure": 67,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 115.37,
+      "measure": 67,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 115.79,
+      "measure": 68,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 116.22,
+      "measure": 68,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 116.63,
+      "measure": 68,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 117.06,
+      "measure": 68,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 117.49,
+      "measure": 69,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 117.91,
+      "measure": 69,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 118.33,
+      "measure": 69,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 118.75,
+      "measure": 69,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 119.17,
+      "measure": 70,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 119.6,
+      "measure": 70,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 120.02,
+      "measure": 70,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 120.44,
+      "measure": 70,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 120.87,
+      "measure": 71,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 121.29,
+      "measure": 71,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 121.71,
+      "measure": 71,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 122.13,
+      "measure": 71,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 122.56,
+      "measure": 72,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 122.98,
+      "measure": 72,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 123.4,
+      "measure": 72,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 123.82,
+      "measure": 72,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 124.23,
+      "measure": 73,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 124.67,
+      "measure": 73,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 125.1,
+      "measure": 73,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 125.52,
+      "measure": 73,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 125.94,
+      "measure": 74,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 126.36,
+      "measure": 74,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 126.78,
+      "measure": 74,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 127.2,
+      "measure": 74,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 127.62,
+      "measure": 75,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 128.05,
+      "measure": 75,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 128.46,
+      "measure": 75,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 128.89,
+      "measure": 75,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 129.32,
+      "measure": 76,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 129.74,
+      "measure": 76,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 130.16,
+      "measure": 76,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 130.58,
+      "measure": 76,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 131.01,
+      "measure": 77,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 131.43,
+      "measure": 77,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 131.85,
+      "measure": 77,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 132.28,
+      "measure": 77,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 132.7,
+      "measure": 78,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 133.12,
+      "measure": 78,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 133.53,
+      "measure": 78,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 133.96,
+      "measure": 78,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 134.39,
+      "measure": 79,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 134.81,
+      "measure": 79,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 135.24,
+      "measure": 79,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 135.65,
+      "measure": 79,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 136.09,
+      "measure": 80,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 136.5,
+      "measure": 80,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 136.93,
+      "measure": 80,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 137.35,
+      "measure": 80,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 137.75,
+      "measure": 81,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 138.18,
+      "measure": 81,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 138.6,
+      "measure": 81,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 139.02,
+      "measure": 81,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 139.44,
+      "measure": 82,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 139.87,
+      "measure": 82,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 140.29,
+      "measure": 82,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 140.71,
+      "measure": 82,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 141.13,
+      "measure": 83,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 141.56,
+      "measure": 83,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 141.98,
+      "measure": 83,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 142.4,
+      "measure": 83,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 142.82,
+      "measure": 84,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 143.25,
+      "measure": 84,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 143.67,
+      "measure": 84,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 144.1,
+      "measure": 84,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 144.52,
+      "measure": 85,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 144.94,
+      "measure": 85,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 145.36,
+      "measure": 85,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 145.79,
+      "measure": 85,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 146.2,
+      "measure": 86,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 146.63,
+      "measure": 86,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 147.05,
+      "measure": 86,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 147.48,
+      "measure": 86,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 147.89,
+      "measure": 87,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 148.32,
+      "measure": 87,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 148.74,
+      "measure": 87,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 149.17,
+      "measure": 87,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 149.58,
+      "measure": 88,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 150.01,
+      "measure": 88,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 150.43,
+      "measure": 88,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 150.86,
+      "measure": 88,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 151.28,
+      "measure": 89,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 151.7,
+      "measure": 89,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 152.12,
+      "measure": 89,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 152.54,
+      "measure": 89,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 152.97,
+      "measure": 90,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 153.39,
+      "measure": 90,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 153.82,
+      "measure": 90,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 154.24,
+      "measure": 90,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 154.66,
+      "measure": 91,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 155.08,
+      "measure": 91,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 155.5,
+      "measure": 91,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 155.92,
+      "measure": 91,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 156.34,
+      "measure": 92,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 156.76,
+      "measure": 92,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 157.18,
+      "measure": 92,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 157.62,
+      "measure": 92,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 158.04,
+      "measure": 93,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 158.46,
+      "measure": 93,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 158.88,
+      "measure": 93,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 159.31,
+      "measure": 93,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 159.73,
+      "measure": 94,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 160.15,
+      "measure": 94,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 160.58,
+      "measure": 94,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 161.0,
+      "measure": 94,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 161.42,
+      "measure": 95,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 161.84,
+      "measure": 95,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 162.26,
+      "measure": 95,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 162.68,
+      "measure": 95,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 163.11,
+      "measure": 96,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 163.53,
+      "measure": 96,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 163.94,
+      "measure": 96,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 164.35,
+      "measure": 96,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 164.8,
+      "measure": 97,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 165.22,
+      "measure": 97,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 165.65,
+      "measure": 97,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 166.07,
+      "measure": 97,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 166.49,
+      "measure": 98,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 166.91,
+      "measure": 98,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 167.33,
+      "measure": 98,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 167.75,
+      "measure": 98,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 168.18,
+      "measure": 99,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 168.6,
+      "measure": 99,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 169.02,
+      "measure": 99,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 169.44,
+      "measure": 99,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 169.87,
+      "measure": 100,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 170.3,
+      "measure": 100,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 170.71,
+      "measure": 100,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 171.13,
+      "measure": 100,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 171.56,
+      "measure": 101,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 171.98,
+      "measure": 101,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 172.41,
+      "measure": 101,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 172.83,
+      "measure": 101,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 173.25,
+      "measure": 102,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 173.67,
+      "measure": 102,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 174.09,
+      "measure": 102,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 174.52,
+      "measure": 102,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 174.94,
+      "measure": 103,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 175.36,
+      "measure": 103,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 175.79,
+      "measure": 103,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 176.21,
+      "measure": 103,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 176.63,
+      "measure": 104,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 177.05,
+      "measure": 104,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 177.47,
+      "measure": 104,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 177.9,
+      "measure": 104,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 178.32,
+      "measure": 105,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 178.74,
+      "measure": 105,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 179.17,
+      "measure": 105,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 179.59,
+      "measure": 105,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 180.01,
+      "measure": 106,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 180.43,
+      "measure": 106,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 180.86,
+      "measure": 106,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 181.28,
+      "measure": 106,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 181.7,
+      "measure": 107,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 182.13,
+      "measure": 107,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 182.55,
+      "measure": 107,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 182.97,
+      "measure": 107,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 183.39,
+      "measure": 108,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 183.82,
+      "measure": 108,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 184.24,
+      "measure": 108,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 184.66,
+      "measure": 108,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 185.08,
+      "measure": 109,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 185.51,
+      "measure": 109,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 185.93,
+      "measure": 109,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 186.35,
+      "measure": 109,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 186.77,
+      "measure": 110,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 187.2,
+      "measure": 110,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 187.62,
+      "measure": 110,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 188.04,
+      "measure": 110,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 188.47,
+      "measure": 111,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 188.88,
+      "measure": 111,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 189.31,
+      "measure": 111,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 189.73,
+      "measure": 111,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 190.15,
+      "measure": 112,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 190.57,
+      "measure": 112,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 191.0,
+      "measure": 112,
+      "beatInMeasure": 3
+    },
+    {
+      "time": 191.42,
+      "measure": 112,
+      "beatInMeasure": 4
+    },
+    {
+      "time": 191.84,
+      "measure": 113,
+      "beatInMeasure": 1
+    },
+    {
+      "time": 192.24,
+      "measure": 113,
+      "beatInMeasure": 2
+    },
+    {
+      "time": 192.68,
+      "measure": 113,
+      "beatInMeasure": 3
+    }
+  ]
+}
