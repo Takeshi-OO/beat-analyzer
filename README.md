@@ -16,4 +16,5 @@ downbeats_strong_onsets.pyのダウンビートとビート検出の機能だけ
 
 ### 結論
 MVPではexportBeats.pyを採用する。
+使用方法: python exportBeats.py audio/<音声ファイル> <出力JSONファイル>
 ただし、強度の高いビートやアタックを優先する機能は将来追加したいため、他の二つも削除せず残しておく
